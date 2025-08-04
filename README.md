@@ -1,1 +1,3 @@
-# .github
+# SocketBlast
+
+Networking and Machine Learning
